@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="19079d5083b9d210396f1f65eeaad346" extends="sys_import_set_row" label="Imp Tmpl X 815011 Sol Cham Solicitacao De Chamados" max_length="40" name="u_imp_tmpl_x_815011_sol_cham_solicitacao_de_chamados" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Data e Hora da Solicitação" label="Data e Hora da Solicitação " max_length="40" name="u_data_e_hora_da_solicitação" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Descrição" label="Descrição" max_length="40" name="u_descrição" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Descrição Resumida" label="Descrição Resumida" max_length="40" name="u_descrição_resumida" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Estado" label="Estado" max_length="40" name="u_estado" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Número" label="Número" max_length="40" name="u_número" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Prioridade" label="Prioridade" max_length="40" name="u_prioridade" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Solicitante" label="Solicitante" max_length="32" name="u_solicitante" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Tipo" label="Tipo" max_length="40" name="u_tipo" type="string"/>
+    </element>
+</database>

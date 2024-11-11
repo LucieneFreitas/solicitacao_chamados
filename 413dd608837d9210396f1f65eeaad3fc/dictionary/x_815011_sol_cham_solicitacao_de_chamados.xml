@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b2ad5a48837d9210396f1f65eeaad3e8" label="Solicitação de Chamados" max_length="40" name="x_815011_sol_cham_solicitacao_de_chamados" type="collection">
+        <element label="Data e Hora da Solicitação" max_length="40" name="data_e_hora_da_solicitacao" type="glide_date_time"/>
+        <element label="Descrição" max_length="500" name="descricao" type="string"/>
+        <element label="Descrição Resumida" max_length="50" name="descricao_resumida" type="string"/>
+        <element choice="1" label="Estado" max_length="40" name="estado" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Aberto" sequence="10" value="aberto"/>
+                <element inactive_on_update="false" label="Em atendimento" sequence="20" value="em_atendimento"/>
+                <element inactive_on_update="false" label="Encerrado" sequence="30" value="encerrado"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Número" max_length="40" name="number" type="string"/>
+        <element choice="1" label="Prioridade" max_length="40" name="prioridade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="1 – Alta" sequence="10" value="alta"/>
+                <element inactive_on_update="false" label="2 – Média" sequence="20" value="media"/>
+                <element inactive_on_update="false" label="3 – Baixa" sequence="30" value="baixa"/>
+            </choice>
+        </element>
+        <element display="true" label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <element choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Segurança" sequence="10" value="seguranca"/>
+                <element inactive_on_update="false" label="Cloud" sequence="20" value="cloud"/>
+                <element inactive_on_update="false" label="DevOps" sequence="30" value="devOps"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="number"/>
+        </index>
+        <index name="index2">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>

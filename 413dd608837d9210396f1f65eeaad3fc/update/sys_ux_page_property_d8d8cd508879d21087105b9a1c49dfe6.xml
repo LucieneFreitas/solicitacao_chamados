@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>A default view for Solicitação de Chamados generated</description>
+        <name>view</name>
+        <page display_value="Solicitação de Chamados">98d8cd50f479d210f96768e66fda9cf6</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-07 00:25:21</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>d8d8cd508879d21087105b9a1c49dfe6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>view</sys_name>
+        <sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope>
+        <sys_update_name>sys_ux_page_property_d8d8cd508879d21087105b9a1c49dfe6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-07 00:25:21</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_815011_sol_cham.98d8cd50f479d210f96768e66fda9cf6.root.view</unique_name>
+        <value>workspace-solicita231227o-de-chamados-0</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=d8d8cd508879d21087105b9a1c49dfe6"/>
+</record_update>

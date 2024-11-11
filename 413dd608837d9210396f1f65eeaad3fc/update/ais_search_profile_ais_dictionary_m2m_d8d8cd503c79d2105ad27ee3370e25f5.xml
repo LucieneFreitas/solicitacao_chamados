@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="ais_search_profile_ais_dictionary_m2m">
+    <ais_search_profile_ais_dictionary_m2m action="INSERT_OR_UPDATE">
+        <dictionary display_value="default_stop_word_dictionary">9865058bc7031010d1cfd9795cc26037</dictionary>
+        <dictionary_reference_qualifier/>
+        <marked_for_deletion>false</marked_for_deletion>
+        <profile display_value="solicitao-de-chamados Search Profile">5cd8cd502479d21000b4ca021052c1f6</profile>
+        <sys_class_name>ais_search_profile_ais_dictionary_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-07 00:25:21</sys_created_on>
+        <sys_id>d8d8cd503c79d2105ad27ee3370e25f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>default_stop_word_dictionary.solicitao-de-chamados Search Profile</sys_name>
+        <sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope>
+        <sys_update_name>ais_search_profile_ais_dictionary_m2m_d8d8cd503c79d2105ad27ee3370e25f5</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-07 00:25:21</sys_updated_on>
+    </ais_search_profile_ais_dictionary_m2m>
+</record_update>

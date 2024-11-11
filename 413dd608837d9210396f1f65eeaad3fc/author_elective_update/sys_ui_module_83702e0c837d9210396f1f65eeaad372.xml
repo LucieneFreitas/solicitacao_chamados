@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Solicitação de Chamados">03702e0c837d9210396f1f65eeaad36f</application>
+        <filter/>
+        <name>Solicitação de Chamados</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_815011_sol_cham.solicita_o_de_chamados_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 12:09:52</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>83702e0c837d9210396f1f65eeaad372</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Chamados</sys_name>
+        <sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope>
+        <sys_update_name>sys_ui_module_83702e0c837d9210396f1f65eeaad372</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-06 12:09:52</sys_updated_on>
+        <table>x_815011_sol_cham_solicitacao_de_chamados</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</application>
+        <file_path/>
+        <instance_id>1ac3a56ddbdabd9c37d72a59139619bc</instance_id>
+        <instance_name>dev203312</instance_name>
+        <name>sys_ui_module_83702e0c837d9210396f1f65eeaad372</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Solicitação de Chamados">03702e0c837d9210396f1f65eeaad36f</application><filter/><name>Solicitação de Chamados</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_815011_sol_cham.solicita_o_de_chamados_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-06 12:09:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>83702e0c837d9210396f1f65eeaad372</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Solicitação de Chamados</sys_name><sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package><sys_policy/><sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope><sys_update_name>sys_ui_module_83702e0c837d9210396f1f65eeaad372</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-06 12:09:52</sys_updated_on><table>x_815011_sol_cham_solicitacao_de_chamados</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>436540844</payload_hash>
+        <record_name>Solicitação de Chamados</record_name>
+        <reverted_from/>
+        <source>4d3dd608837d9210396f1f65eeaad3fd</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 12:09:52</sys_created_on>
+        <sys_id>8f702e0c837d9210396f1f65eeaad374</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>193016195880000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-06 12:09:52</sys_updated_on>
+        <type>Module</type>
+        <update_guid>c3702e0cd97d921069db34f77990f774</update_guid>
+        <update_guid_history>c3702e0cd97d921069db34f77990f774:436540844</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-06 12:53:32</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>173f56726dfc44f6837e5703e52841e4</sys_id>
+        <sys_metadata>83702e0c837d9210396f1f65eeaad372</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Chamados</sys_name>
+        <sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope>
+        <sys_scope_delete display_value="">61ceb1b659ec49ac96a2614e70f6de90</sys_scope_delete>
+        <sys_update_name>sys_ui_module_83702e0c837d9210396f1f65eeaad372</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_83702e0c837d9210396f1f65eeaad372">8f702e0c837d9210396f1f65eeaad374</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-06 12:53:32</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

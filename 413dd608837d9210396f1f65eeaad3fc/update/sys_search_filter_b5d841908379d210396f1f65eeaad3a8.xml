@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Solicitação de Chamados">f5d841908379d210396f1f65eeaad399</ais_search_source>
+        <label>Solicitação de Chamados</label>
+        <name>Solicitação de Chamados</name>
+        <order>100</order>
+        <search_context_config display_value="Solicitação de Chamados AI Search Configuration">98d8cd509b79d210acda4e8be62f40ed</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-07 00:25:26</sys_created_on>
+        <sys_id>b5d841908379d210396f1f65eeaad3a8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Solicitação de Chamados</sys_name>
+        <sys_package display_value="Solicitação de Chamados" source="x_815011_sol_cham">413dd608837d9210396f1f65eeaad3fc</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Solicitação de Chamados">413dd608837d9210396f1f65eeaad3fc</sys_scope>
+        <sys_update_name>sys_search_filter_b5d841908379d210396f1f65eeaad3a8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-07 00:25:26</sys_updated_on>
+    </sys_search_filter>
+</record_update>

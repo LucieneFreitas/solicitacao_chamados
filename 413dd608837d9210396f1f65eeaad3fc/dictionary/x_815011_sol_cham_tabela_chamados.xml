@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="2589271083351610396f1f65eeaad393" label="tabela_chamados" max_length="40" name="x_815011_sol_cham_tabela_chamados" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Data e Hora da Solicitação " max_length="40" name="data_e_hora_da_solicita_o" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true" label="Descrição" max_length="338" name="descri_o" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Descrição Resumida" max_length="51" name="descri_o_resumida" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Estado" max_length="40" name="estado" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Número" max_length="40" name="numero" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Prioridade" max_length="40" name="prioridade" type="choice">
+            <choice/>
+        </element>
+        <element attributes="encode_utf8=false" label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo" max_length="40" name="tipo" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>
